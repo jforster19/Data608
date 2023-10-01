@@ -1,0 +1,52 @@
+gifford_ranked_law_strength,State,gifford_gun_law_grade,gun_date_rate_rank,gun_death_rate_per100K,gun_law_likert_scale
+1,California,A,43,9,Very strict
+2,New Jersey,A,48,5.2,Very strict
+3,Connecticut,A-,45,6.7,Very strict
+5,Hawaii,A-,49,4.8,Very strict
+0,District of Columbia,A-,,,Very Strict
+8,Illinois,A-,26,16.1,Very strict
+7,Maryland,A-,29,15.2,Very strict
+6,Massachusetts,A-,50,3.4,Very strict
+4,New York,A-,47,5.4,strict
+11,Oregon,B+,30,14.9,strict
+9,Rhode Island,B+,46,5.6,strict
+10,Washington,B+,39,11.2,strict
+14,Colorado,B,18,17.8,strict
+13,Delaware,B,23,16.6,strict
+12,Virginia,B,32,14.3,strict
+15,Pennsylvania,B-,31,14.8,strict
+16,Michigan,C+,28,15.4,moderate
+18,Minnesota,C+,42,10,moderate
+17,Nevada,C+,15,19.8,moderate
+18,New Mexico,C+,3,27.8,moderate
+20,Nebraska,C,41,10.3,moderate
+21,North Carolina,C,21,17.3,moderate
+23,Florida,C-,34,14.1,moderate
+22,Vermont,C-,38,11.9,moderate
+24,Wisconsin,D+,36,13.5,lax
+38,Alabama,F,4,26.4,very lax
+41,Alaska,F,6,25.2,very lax
+42,Arizona,F,17,18.3,very lax
+50,Arkansas,F,8,23.3,very lax
+34,Georgia,F,14,20.3,very lax
+48,Idaho,F,25,16.3,very lax
+29,Indiana,F,16,18.4,very lax
+32,Iowa,F,40,11.2,very lax
+45,Kansas,F,20,17.3,very lax
+43,Kentucky,F,13,21.1,very lax
+32,Louisiana,F,2,29.1,very lax
+27,Maine,F,37,12.6,very lax
+45,Mississippi,F,1,33.9,very lax
+47,Missouri,F,9,23.2,very lax
+40,Montana,F,7,25.1,very lax
+26,New Hampshire,F,44,8.3,very lax
+37,North Dakota,F,22,16.8,very lax
+25,Ohio,F,24,16.5,very lax
+34,Oklahoma,F,12,21.2,very lax
+28,South Carolina,F,11,22.4,very lax
+44,South Dakota,F,33,14.3,very lax
+38,Tennessee,F,10,22.8,very lax
+30,Texas,F,27,15.6,very lax
+30,Utah,F,35,13.9,very lax
+36,West Virginia,F,19,17.3,very lax
+49,Wyoming,F,5,26.1,very lax
