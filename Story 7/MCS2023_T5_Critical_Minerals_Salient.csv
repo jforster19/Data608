@@ -1,0 +1,34 @@
+﻿Source,Year,Critical_mineral,Primary_prod,Secondary_prod,Prod_notes,Apparent_Consuption,Contsumption_Notes,Net_Import_Reliance,Primary_import_source,Import_source_notes,Leading_source_country,Leading_country_prod,World_total_prod,World_prod_notes,Leading_source_precent_world
+MCS2023,2022_estimated,Aluminum (alumina),1200000,0,Refinery production.,2900000,,59,Brazil,,China,76000000,140000000,,54.28571429
+MCS2023,2022_estimated,Aluminum (bauxite),W,0,,2900000,Reported consumption.,>75,Jamaica,,Australia,100000000,380000000,World total excludes U.S. production.,26
+MCS2023,2022_estimated,Aluminum (metal),860000,3400000,Refinery production.,5100000,,54,Canada,,China,40000000,69000000,,57.97101449
+MCS2023,2022_estimated,Antimony,0,4200,,27000,"Antimony in oxide and unwrought metal, powder.",83,China,Includes Hong Kong.,China,60000,110000,,54.54545455
+MCS2023,2022_estimated,Arsenic ,0,NA,,5300,Estimated consumption.,100,China,Includes Hong Kong.,Peru,28000,61000,Arsenic trioxide.,46
+MCS2023,2022_estimated,Barite,W,0,,W,,>75,China,Includes Hong Kong.,India,2600000,900000,World total excludes U.S. production.,33
+MCS2023,2022_estimated,Beryllium,180,NA,,180,Estimated consumption.,1,Kazakhstan,,United States,180,280,,64.28571429
+MCS2023,2022_estimated,Bismuth,0,80,Refinery production.,2000,,96,China,Includes Hong Kong.,China,16000,20000,,80
+MCS2023,2022_estimated,Chromium,0,100000,,590000,,83,South Africa,,South Africa,18000000,41000000,,43.90243902
+MCS2023,2022_estimated,Cobalt,800,1900,,7800,,76,Norway,,Congo (Kinshasa),130000,190000,,68.42105263
+MCS2023,2022_estimated,Fluorspar,NA,0,,500000,,100,Mexico,,China,5700000,8300000,,68.6746988
+MCS2023,2022_estimated,Gallium,0,NA,,18,Reported consumption.,100,China,,China,540,550,,98.18181818
+MCS2023,2022_estimated,Germanium,0,W,Refinery production.,30,Estimated consumption.,>50,China,,China,NA,NA,World total excludes U.S. production.,NA
+MCS2023,2022_estimated,Graphite (natural),0,NA,,72000,,100,China,Includes Hong Kong.,China,850000,1300000,,65.38461538
+MCS2023,2022_estimated,Indium,0,NA,Refinery production.,160,Estimated consumption.,100, Republic of Korea,,China,530,900,,58.88888889
+MCS2023,2022_estimated,Lithium,W,NA,,3000,Estimated consumption.,>25,Argentina,,Australia,61000,130000,World total excludes U.S. production.,47
+MCS2023,2022_estimated,Magnesium,W,37000,Refinery production.,50000,Reported consumption.,>50,Israel,,China,900000,1000000,World total excludes U.S. production.,90
+MCS2023,2022_estimated,Manganese,0,0,,890000,,100,Gabon,,South Africa,7200000,20000000,,36
+MCS2023,2022_estimated,Nickel,18000,W,,220000,,56,Canada,,Indonesia,1600000,3300000,,48.48484848
+MCS2023,2022_estimated,Niobium,0,NA,,7600,,100,Brazil,,Brazil,71000,79000,,89.87341772
+MCS2023,2022_estimated,Palladium ,11,40,,68,,26,Russia,,Russia,88,210,,41.9047619
+MCS2023,2022_estimated,Platinum ,3,11,,42,,66,South Africa,,South Africa,140,190,,73.68421053
+MCS2023,2022_estimated,Rare Earths (compounds and metals),250,NA,Data include lanthanides.,6100,,>95,China,Includes Hong Kong.,NA,NA,NA,,NA
+MCS2023,2022_estimated,Scandium,0,0,,NA,,100,NA,,China,NA,NA,,NA
+MCS2023,2022_estimated,Tantalum,0,NA,,1200,,100,China,Includes Hong Kong.,Congo (Kinshasa),860,2000,,43
+MCS2023,2022_estimated,Tellurium,W,0,Refinery production.,W,,>75,Canada,,China,340,640,World total excludes U.S. production.,53
+MCS2023,2022_estimated,Tin ,0,18000,,43000,,77,Peru,,China,95000,310000,,31
+MCS2023,2022_estimated,Titanium (metal),W,W,Refinery production.,28000,,>95,Japan,,China,150000,260000,World total excludes U.S. production.,58
+MCS2023,2022_estimated,Tungsten,0,W,,W,,>50,China,Includes Hong Kong.,China,71000,84000,,84.52380952
+MCS2023,2022_estimated,Vanadium,0,4400,,9500,,54,Canada,,China,70000,100000,,70
+MCS2023,2022_estimated,Yttrium,0,0,,1000,,100,China,Includes Hong Kong.,China,NA,NA,,NA
+MCS2023,2022_estimated,Zinc,770000,220000,Refinery production.,910000,,76,Canada,,NA,NA,NA,,NA
+MCS2023,2022_estimated,Zirconium (ores and concentrates),"<100,000",NA,,"<100,000",,<50,South Africa,,Australia,500000,1400000,World total excludes U.S. production.,36
